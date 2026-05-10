@@ -148,7 +148,7 @@ java -cp "out:lib/mysql-connector-j-9.3.0.jar" Main
 ---
 
 ## 📁 GitHub Repository
-🔗 **[YOUR_GITHUB_REPO_LINK_HERE](YOUR_GITHUB_REPO_LINK_HERE)**
+🔗 **[YOUR_GITHUB_REPO_LINK_HERE](https://github.com/Sanandanmetai/Bank-Management-System)**
 
 ---
 
